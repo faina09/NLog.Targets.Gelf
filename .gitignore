@@ -1,0 +1,6 @@
+/NLog.Target.Gelf/bin
+/Packages
+/NLog.Target.Gelf/obj
+/TestApp/obj
+/TestApp/bin
+/.vs
